@@ -111,3 +111,12 @@
   .down2 {
     background-image: url('./img/down2.png');
   }
+
+  .wall{
+    width: 100vw;
+    height: 100vh;
+    background-image: url('/img/background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
